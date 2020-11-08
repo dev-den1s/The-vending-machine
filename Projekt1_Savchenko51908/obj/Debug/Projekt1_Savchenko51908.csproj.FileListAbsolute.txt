@@ -1,0 +1,30 @@
+C:\Users\Denis\OneDrive\Рабочий стол\Projekt1_Savchenko51908\Projekt1_Savchenko51908\bin\Debug\Projekt1_Savchenko51908.exe.config
+C:\Users\Denis\OneDrive\Рабочий стол\Projekt1_Savchenko51908\Projekt1_Savchenko51908\bin\Debug\Projekt1_Savchenko51908.exe
+C:\Users\Denis\OneDrive\Рабочий стол\Projekt1_Savchenko51908\Projekt1_Savchenko51908\bin\Debug\Projekt1_Savchenko51908.pdb
+C:\Users\Denis\OneDrive\Рабочий стол\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.csprojAssemblyReference.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.Form1.resources
+C:\Users\Denis\OneDrive\Рабочий стол\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.Properties.Resources.resources
+C:\Users\Denis\OneDrive\Рабочий стол\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.csproj.GenerateResource.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.csproj.CoreCompileInputs.cache
+C:\Users\Denis\OneDrive\Рабочий стол\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.exe
+C:\Users\Denis\OneDrive\Рабочий стол\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.pdb
+C:\Users\Denis\Desktop\Ded\Projekt1_Savchenko51908\Projekt1_Savchenko51908\bin\Debug\Projekt1_Savchenko51908.exe.config
+C:\Users\Denis\Desktop\Ded\Projekt1_Savchenko51908\Projekt1_Savchenko51908\bin\Debug\Projekt1_Savchenko51908.exe
+C:\Users\Denis\Desktop\Ded\Projekt1_Savchenko51908\Projekt1_Savchenko51908\bin\Debug\Projekt1_Savchenko51908.pdb
+C:\Users\Denis\Desktop\Ded\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Ded\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.Form1.resources
+C:\Users\Denis\Desktop\Ded\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.Properties.Resources.resources
+C:\Users\Denis\Desktop\Ded\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Ded\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Ded\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.exe
+C:\Users\Denis\Desktop\Ded\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.pdb
+C:\Users\Denis\Desktop\Projekt1_Savchenko51908\Projekt1_Savchenko51908\bin\Debug\Projekt1_Savchenko51908.exe.config
+C:\Users\Denis\Desktop\Projekt1_Savchenko51908\Projekt1_Savchenko51908\bin\Debug\Projekt1_Savchenko51908.exe
+C:\Users\Denis\Desktop\Projekt1_Savchenko51908\Projekt1_Savchenko51908\bin\Debug\Projekt1_Savchenko51908.pdb
+C:\Users\Denis\Desktop\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.Form1.resources
+C:\Users\Denis\Desktop\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.Properties.Resources.resources
+C:\Users\Denis\Desktop\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.exe
+C:\Users\Denis\Desktop\Projekt1_Savchenko51908\Projekt1_Savchenko51908\obj\Debug\Projekt1_Savchenko51908.pdb
